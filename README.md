@@ -1,4 +1,4 @@
-# JIS Z8210:2009 案内用図記号 (Public Information Symbols) SVG files
+# JIS Z8210:2010 案内用図記号 (Public Information Symbols) SVG files
 
  * Vector data source : http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf
  * Colors
