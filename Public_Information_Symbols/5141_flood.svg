@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <title>洪水; flood</title>
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>洪水; flood</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 4.6023768,4.6030003 0,51.3950027 51.3962522,0 0,-51.3950027 -51.3962522,0 z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 0,0 14.551,0 c 0.061,0 0.117,-0.01 0.171,-0.027 0.198,-0.095 0.38,-0.221 0.534,-0.374 0.74,-0.732 1.424,-1.611 1.424,-3.229 0,-3.286 -3.373,-3.679 -3.373,-6.706 0,-3.026 3.373,-3.387 3.373,-6.674 0,-3.287 -3.373,-3.648 -3.373,-6.674 0,-3.027 3.373,-3.42 3.373,-6.706 0,-1.619 -0.684,-2.498 -1.424,-3.229 -0.154,-0.154 -0.336,-0.279 -0.534,-0.373 -0.054,-0.018 -0.11,-0.028 -0.171,-0.028 L 0,-34.02 0,0 Z m -3.546,-37.569 41.116,0 0,41.117 -41.116,0 0,-41.117 z" style="stroke:none;fill-opacity:1;fill:#006cb7;fill-rule:nonzero" transform="matrix(0.000000,1.250000,1.250000,0.000000,51.563629,9.035501)"/>
+</svg>

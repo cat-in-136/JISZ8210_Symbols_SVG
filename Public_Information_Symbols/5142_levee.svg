@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <title>堤防; levee</title>
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>堤防; levee</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 4.5230012,4.5230012 0,51.5550028 51.5550028,0 0,-51.5550028 -51.5550028,0 z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 51.631754,51.628004 -11.86875,0 -5.86875,-35.04875 -7.49125,0 -5.87125,35.04875 -11.5612498,0 0,-42.6537498 42.6612498,0 0,42.6537498 z M 4.5230042,4.5230042 l 0,51.5549998 51.5549998,0 0,-51.5549998 -51.5549998,0 z" style="fill:#006cb7;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>
