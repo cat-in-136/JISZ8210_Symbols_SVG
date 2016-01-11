@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>キャッシュサービス; Cash service</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 7.7848777,56.033628 c -1.77625,0 -3.2175,-1.44125 -3.2175,-3.2175 l 0,-45.0325003 c 0,-1.77625 1.44125,-3.21625 3.2175,-3.21625 l 45.0325003,0 c 1.77625,0 3.21625,1.44 3.21625,3.21625 l 0,45.0325003 c 0,1.77625 -1.44,3.2175 -3.21625,3.2175 l -45.0325003,0 z" style="fill:#ffffff;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"/>
+  <path d="m 36.58613,17.433627 0,25.7325 -16.08375,0 0,-25.7325 16.08375,0 z m 0,25.7325 z m -24.7675,-28.305 0,9.65 5.46875,0 0,-2.57375 -2.89625,0 0,-4.50375 4.1825,0 0,27.66125 19.94125,0 0,-27.66125 1.28625,0 0,28.94875 -18.01125,0 0,1.93 19.9425,0 0,-30.87875 4.18125,0 0,4.50375 -2.895,0 0,2.57375 5.4675,0 0,-9.65 -36.6675,0" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 27.013629,34.739877 -2.51875,0 0,-1.43 2.51875,0 0,-0.73125 -0.15375,-0.32375 -2.365,0 0,-1.43 1.65125,0 -2.80875,-5.65 3.165,0 2.04375,4.8 2.00875,-4.8 3.19875,0 -2.80875,5.65 1.65125,0 0,1.43 -2.34875,0 -0.17,0.32375 0,0.73125 2.51875,0 0,1.43 -2.51875,0 0,2.315 -3.06375,0 0,-2.315" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

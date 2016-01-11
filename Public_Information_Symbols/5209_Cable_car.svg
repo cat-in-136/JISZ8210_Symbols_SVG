@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>ロープウェイ; Cable car</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 7.7861277,56.032378 c -1.7775,0 -3.2175,-1.44 -3.2175,-3.21625 l 0,-45.0300003 c 0,-1.77625 1.44,-3.2175 3.2175,-3.2175 l 45.0300003,0 c 1.77625,0 3.21625,1.44125 3.21625,3.2175 l 0,45.0300003 c 0,1.77625 -1.44,3.21625 -3.21625,3.21625 l -45.0300003,0 z" style="fill:#ffffff;fill-opacity:1;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path d="m 31.28113,37.703627 0,-6.92875 7.30875,0 1.52,6.92875 -8.82875,0 z m -1.95875,0 -8.82625,0 1.5175,-6.92875 7.30875,0 0,6.92875 m 10.11125,-8.88875 -5.39625,0 -2.20875,-9.64625 19.6375,-7.14875 -0.0063,-1.70875 -14.59625,5.31125 0,-2.085 -13.92125,5.0725 0,2.08 -13.7262503,4.99625 0.0025,1.71 19.2712503,-7.01375 -1.92625,8.4325 -5.40125,0 c -0.4175,0 -0.7675,0.29 -0.8575,0.68 l -1.81875,8.20875 0,10.37875 23.63,0 0,-10.37875 -1.825,-8.20875 c -0.09125,-0.39 -0.44,-0.68 -0.8575,-0.68" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>キャンプ禁止; No camping</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 37.551752,16.602377 c -2.1525,0.445 -4.3925,0.6725 -6.6775,0.6725 -2.28875,0 -4.515,-0.225 -6.6725,-0.675 l 10.44,24.00125 13.3525,0 -10.4425,-23.99875" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 12.528,40.601128 5.25,0 c 2.34,-4.20125 4.0725,-8.74625 5.18125,-13.56 l 0,13.56 10.43125,0 -10.43125,-23.9925 -10.43125,23.9925" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 47.235503,44.138628 -30.77375,-30.77125 c 3.77625,-3.1075 8.6125,-4.9737503 13.88375,-4.9737503 12.0725,0 21.8625,9.7875003 21.8625,21.8637503 0,5.27125 -1.86625,10.10625 -4.9725,13.88125 z m -16.89,7.98125 c -12.07625,0 -21.8650003,-9.7875 -21.8650003,-21.8625 0,-5.2275 1.8375003,-10.0275 4.9000003,-13.79 l 30.7525,30.7525 c -3.76125,3.0625 -8.56,4.9 -13.7875,4.9 z m -0.045,-49.1487503 c -15.0925,0 -27.3287503,12.2362503 -27.3287503,27.3287503 0,15.09375 12.2362503,27.33 27.3287503,27.33 15.09375,0 27.32875,-12.23625 27.32875,-27.33 0,-15.0925 -12.235,-27.3287503 -27.32875,-27.3287503" style="fill:#ed1c24;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

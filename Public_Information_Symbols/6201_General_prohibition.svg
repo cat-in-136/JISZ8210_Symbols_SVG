@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>一般禁止; General prohibition</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 0,0 -24.613,-24.612 c -2.485,3.019 -3.978,6.887 -3.978,11.103 0,9.656 7.83,17.485 17.487,17.485 C -6.888,3.976 -3.021,2.484 0,0 Z m 6.383,-13.509 c 0,-9.658 -7.829,-17.487 -17.487,-17.487 -4.182,0 -8.018,1.469 -11.029,3.918 L 2.465,-2.481 C 4.912,-5.49 6.383,-9.327 6.383,-13.509 m -39.312,-0.035 c 0,-12.071 9.789,-21.859 21.86,-21.859 12.071,0 21.858,9.788 21.858,21.859 0,12.071 -9.787,21.858 -21.858,21.858 -12.071,0 -21.86,-9.787 -21.86,-21.858" style="stroke:none;fill-opacity:1;fill:#ed1c24;fill-rule:nonzero" transform="matrix(0.000000,1.250000,1.250000,0.000000,47.231128,44.138003)"/>
+</svg>

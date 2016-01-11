@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>野球場; Baseball stadium</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 7.7855027,56.031753 c -1.7775,0 -3.2175,-1.44 -3.2175,-3.21625 l 0,-45.0287503 c 0,-1.7775 1.44,-3.2175 3.2175,-3.2175 l 45.0312503,0 c 1.77625,0 3.21625,1.44 3.21625,3.2175 l 0,45.0287503 c 0,1.77625 -1.44,3.21625 -3.21625,3.21625 l -45.0312503,0 z" style="fill:#ffffff;fill-opacity:1;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path d="m 24.796753,18.591751 c 0,1.59875 1.29625,2.89375 2.895,2.89375 1.5975,0 2.89375,-1.295 2.89375,-2.89375 0,-1.59875 -1.29625,-2.895 -2.89375,-2.895 -1.59875,0 -2.895,1.29625 -2.895,2.895" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 36.420504,35.311752 -3.02125,5.20375 4.43,8.335 -2.06125,2.94375 -5.9875,-8.2425 0.81,9.2625 -3.18375,0 -2.565,-12.06625 c -0.03,-0.135 -0.045,-0.27625 -0.045,-0.42125 0,-0.35875 0.09375,-0.69625 0.2575,-0.9875 l 3.77875,-6.7925 -3.7325,-5.8125 c -2.13125,0.03125 -4.07,-0.70625 -5.35,-2.2325 -1.40625,-1.67625 -1.7,-4.12 -1.08875,-6.42625 l 18.765,-11.2637503 c 0.4725,0.21625 0.87625,0.59 1.1225,1.0925 0.225,0.45875 0.28125,0.95625 0.19625,1.425 l -17.275,8.4262503 c -0.49125,1.535 -0.375,3.0025 0.46875,4.045 1.54875,1.915 5.0075,1.73625 8.05375,-0.29 0.05,-0.035 0.11375,-0.05375 0.17875,-0.05375 0.12,0 0.22375,0.06375 0.27875,0.16125 l 5.97125,10.31625 c 0.29625,0.4925 0.46625,1.07 0.46625,1.68625 0,0.61875 -0.17125,1.1975 -0.4675,1.69125" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

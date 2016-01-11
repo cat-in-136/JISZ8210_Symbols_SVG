@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>転落注意; Caution, drop</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 57.286586,56.925503 c 1.12625,0 2.2225,-0.58 2.8275,-1.62625 0.60375,-1.0475 0.55875,-2.28875 -0.005,-3.26375 L 33.121586,5.3067527 c -0.56625,-0.97375 -1.615,-1.63125 -2.82375,-1.63125 -1.2075,0 -2.25875,0.6575 -2.8225,1.63125 L 0.49283646,52.035503 c -0.56625,0.975 -0.60875,2.21625 -0.005,3.26375 0.60250004,1.04625 1.69875004,1.62625 2.82750004,1.62625 l 53.9712495,0" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="M 30.296585,9.0954997 5.1940855,52.573 l 50.2037495,0 -25.10125,-43.4775003" style="fill:#ffcb04;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 31.776535,47.013003 0,1.901375 23.278751,0 0,-1.901375 -23.278751,0 z" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 32.419085,45.461752 1.99625,-7.45 c 0.08375,-0.30875 0.0675,-0.62125 -0.03,-0.905 l -0.70375,-2.04375 2.11625,0.1775 3.22,5.57875 1.80375,-1.12625 -2.69625,-6.67375 c -0.16625,-0.4075 -0.5025,-0.74375 -0.95375,-0.89125 -0.08125,-0.025 -0.16125,-0.04375 -0.2425,-0.05625 l -4.5175,-0.69875 -0.97875,-2.84125 4.9525,-1.42125 -0.115,-1.63875 -5.75375,1.22375 c -0.1125,-0.15625 -0.23375,-0.3075 -0.36,-0.45125 l 4.915,-4.96625 -0.61625,-1.5225 -6.36125,5.0225 c -0.825,0.65125 -1.515,1.4875 -1.995,2.4775 -0.01,0.01875 -0.01875,0.04 -0.025,0.06375 -0.04,0.1225 -0.02875,0.25125 0.025,0.36 l 5.1325,10.52625 -0.92375,7.51375 2.11125,-0.2575" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 27.482785,23.703001 c 0,-1.06875 -0.86625,-1.9325 -1.93375,-1.9325 -1.06625,0 -1.9325,0.86375 -1.9325,1.9325 0,1.0675 0.86625,1.9325 1.9325,1.9325 1.0675,0 1.93375,-0.865 1.93375,-1.9325" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

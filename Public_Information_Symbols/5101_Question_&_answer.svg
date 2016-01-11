@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>案内所; Question &amp; answer</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 30.301128,57.640504 c 15.098751,0 27.338752,-12.241251 27.338752,-27.340002 0,-15.098751 -12.240001,-27.3400024 -27.338752,-27.3400024 -15.100001,0 -27.3400022,12.2412514 -27.3400022,27.3400024 0,15.098751 12.2400012,27.340002 27.3400022,27.340002 z" style="fill:#ffffff;fill-opacity:1;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path d="m 30.301128,40.951754 c -3.19875,0 -5.79,2.5925 -5.79,5.79 0,3.197501 2.59125,5.788751 5.79,5.788751 3.19625,0 5.78875,-2.59125 5.78875,-5.788751 0,-3.1975 -2.5925,-5.79 -5.78875,-5.79" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 31.257378,10.064252 c -3.41875,0 -9.593751,0.765 -13.216251,5.76625 -1.99,2.705001 -2.19375,5.051251 -2.3475,7.093751 l 8.95875,0 c 0.573751,-2.8875 2.120001,-5.25625 6.197501,-5.25625 1.225,0 5.1525,0.20375 5.1525,3.21375 0,2.195 -2.04,3.725 -6.02125,6.89 -3.1625,2.500001 -4.13375,4.643751 -4.13375,7.501251 l 0,2.96 8.2675,0 0,-0.97 c 0,-3.06125 1.27625,-4.28625 4.898751,-7.0425 4.74625,-3.622501 6.48125,-5.918751 6.48125,-9.491251 0,-5.612501 -5.15375,-10.665001 -14.237501,-10.665001" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

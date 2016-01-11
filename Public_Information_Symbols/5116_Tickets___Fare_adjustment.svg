@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>きっぷうりば／精算所; Tickets/Fare adjustment</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 7.7911259,56.02488 c -1.7762501,0 -3.2162503,-1.44 -3.2162503,-3.215 l 0,-45.0187539 c 0,-1.7775001 1.4400002,-3.2150002 3.2162503,-3.2150002 l 45.0187541,0 c 1.77625,0 3.21625,1.4375001 3.21625,3.2150002 l 0,45.0187539 c 0,1.775 -1.44,3.215 -3.21625,3.215 l -45.0187541,0 z" style="fill:#ffffff;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"/>
+  <path d="m 41.238627,23.189878 c 2.34375,0 4.24375,-1.90125 4.24375,-4.245 0,-2.342501 -1.9,-4.243751 -4.24375,-4.243751 -2.345,0 -4.245,1.90125 -4.245,4.243751 0,2.34375 1.9,4.245 4.245,4.245" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 8.769876,12.433627 0,24.110001 12.85875,0 0,-24.110001 -12.85875,0 z" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 10.054876,13.719877 0,6.428751 10.2875,0 0,-6.428751 -10.2875,0 z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 10.054876,33.328628 0,1.92875 3.8575,0 0,-1.92875 -3.8575,0 z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 0,0 c 0,0.497 -0.402,0.9 -0.9,0.9 -0.498,0 -0.901,-0.403 -0.901,-0.9 0,-0.497 0.403,-0.9 0.901,-0.9 0.498,0 0.9,0.403 0.9,0.9" style="stroke:none;fill-opacity:1;fill:#ffffff;fill-rule:nonzero" transform="matrix(0.000000,1.250000,1.250000,0.000000,18.413626,31.399879)"/>
+  <path d="m 24.546126,23.698628 0,5.1425 3.215,0 0,-5.1425 -3.215,0 z" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 46.382378,24.843628 c -1.67875,-0.24875 -3.39625,-0.38125 -5.14375,-0.38125 -2.727501,0 -5.381251,0.3175 -7.928751,0.91125 -0.22125,0.0525 -0.4125,0.18625 -0.5375,0.36875 l -3.81625,5.448751 -3.957501,-3.320001 -1.56125,3.346251 4.572501,4.57375 c 0.465,0.46375 1.10875,0.7525 1.81875,0.7525 0.79125,0 1.4975,-0.3575 1.96875,-0.92 l 2.11375,-2.51625 0,14.196251 17.056251,0 0.82375,-15.720001 c 0.23125,-3.282501 -2.09625,-6.248751 -5.40875,-6.740001" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

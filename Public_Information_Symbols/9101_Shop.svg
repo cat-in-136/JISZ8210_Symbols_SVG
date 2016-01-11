@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>店舗／売店; Shop</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 7.7673777,56.052378 c -1.77625,0 -3.21875,-1.44125 -3.21875,-3.21875 l 0,-45.0662503 c 0,-1.77625 1.4425,-3.21875 3.21875,-3.21875 l 45.0662503,0 c 1.77875,0 3.21875,1.4425 3.21875,3.21875 l 0,45.0662503 c 0,1.7775 -1.44,3.21875 -3.21875,3.21875 l -45.0662503,0 z" style="fill:#ffffff;fill-opacity:1;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path d="m 35.94238,17.004876 -7.11125,0 0,-2.4525 c 0,-0.94875 0.36875,-1.8425 1.04125,-2.51375 0.67125,-0.67125 1.565,-1.04 2.51375,-1.04 0.95,0 1.84375,0.36875 2.51375,1.04 0.6725,0.67125 1.0425,1.565 1.0425,2.51375 l 0,2.4525 z m 2.57375,0 0,-2.4525 c 0,-3.38625 -2.745,-6.1312503 -6.13,-6.1312503 -3.385,0 -6.13,2.7450003 -6.13,6.1312503 l 0,2.4525 -8.4825,0 0,5.30375 2.575,0 0,-2.72875 24.075,0 0,26.5375 -13.09875,0 0,2.57625 15.67375,0 0,-31.68875 -8.4825,0" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 24.212379,50.654878 5.82375,0 0,-8.31625 -5.82375,8.31625" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 12.887378,31.544877 0,8.3175 5.82125,-8.3175 -5.82125,0" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 24.194879,31.544877 5.03625,-2.90625 -1.125,-1.95125 -4.355,2.51375 1.66375,-4.5675 -2.11625,-0.77 -1.84625,5.06875 -1.84625,-5.06875 -2.115,0.77 1.66375,4.5675 -4.35625,-2.51375 -1.12375,1.95125 5.03375,2.90625 2.7525,-0.0038 -8.5725,12.24625 0,6.8675 8.5775,0 8.57,-12.2425 0,-6.8675 -5.84125,0" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

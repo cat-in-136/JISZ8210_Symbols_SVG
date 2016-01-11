@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>一般注意; General caution</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 57.332534,56.972378 c 1.1275,0 2.22625,-0.5825 2.83125,-1.6325 0.60625,-1.04625 0.56,-2.29 -0.0037,-3.2675 l -27.035,-46.8087503 c -0.56625,-0.97625 -1.61875,-1.635 -2.8275,-1.635 -1.2075,0 -2.26,0.65875 -2.82625,1.635 L 0.44253372,52.072378 c -0.56625,0.9775 -0.61125,2.22125 -0.005,3.2675 0.60499998,1.05 1.70249998,1.6325 2.83249998,1.6325 l 54.0625003,0" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="M 30.295033,9.0586257 5.1512827,52.612376 l 50.2887503,0 -25.145,-43.5537503" style="fill:#ffcb04;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 33.775033,46.871128 c 0,1.92375 -1.55625,3.48125 -3.47875,3.48125 -1.92,0 -3.47875,-1.5575 -3.47875,-3.48125 0,-1.92 1.55875,-3.47625 3.47875,-3.47625 1.9225,0 3.47875,1.55625 3.47875,3.47625" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 28.441283,39.092377 c 0,1.025 0.83125,1.85625 1.855,1.85625 1.025,0 1.85625,-0.83125 1.85625,-1.85625 l 2.0275,-16.795 c 0,-2.14625 -1.7375,-3.88375 -3.88375,-3.88375 -2.14375,0 -3.885,1.7375 -3.885,3.88375 l 2.03,16.795" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

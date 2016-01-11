@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>リサイクル品回収施設; Collection facility for the recycling product</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 7.7855027,56.032378 c -1.77625,0 -3.21625,-1.44 -3.21625,-3.2175 l 0,-45.0300003 c 0,-1.77625 1.44,-3.21625 3.21625,-3.21625 l 45.0312503,0 c 1.775,0 3.215,1.44 3.215,3.21625 l 0,45.0300003 c 0,1.7775 -1.44,3.2175 -3.215,3.2175 l -45.0312503,0 z" style="fill:#ffffff;fill-opacity:1;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path d="m 10.758003,33.358627 c -0.7850003,1.365 -0.7850003,3.0575 0.0012,4.41875 l 3.2825,5.68125 c 0.06125,-0.67625 0.24875,-1.34375 0.5625,-1.96375 l -0.005,-0.01 0.13875,-0.24375 3.91625,-6.78875 2.445,1.38125 -2.58125,-8.56625 -8.6987503,2.05125 2.4875003,1.44875 -1.54875,2.59125" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 15.730504,41.487377 0,0.0012 -0.14,0.24125 c -0.785,1.36625 -0.785,3.05875 0.0013,4.41875 0.78625,1.36125 2.25375,2.20625 3.8275,2.2075 0,0 0.17375,0 0.25375,0 l 9.605,-0.0025 0,-7.36625 -13.25,-0.015 -0.2975,0.515" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 41.153005,48.353628 c 1.57375,-0.0025 3.04125,-0.84875 3.82625,-2.21 l 3.28,-5.68375 c -0.6175,0.285 -1.29,0.4575 -1.98375,0.49625 l -0.0063,0.0088 -0.27875,0 -7.83875,0.0037 -0.02625,-2.80625 -6.1275,6.5175 6.125,6.5075 0.01125,-2.87875 3.01875,0.045" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 45.706755,39.983627 0,-0.0013 0.28,0 c 1.57375,-0.0012 3.04,-0.8475 3.825,-2.21 0.78625,-1.36 0.785,-3.05375 -0.0025,-4.4175 0,0 -0.085,-0.15125 -0.125,-0.22 l -4.805,-8.31625 -6.38,3.6825 6.6125,11.4825 0.595,0" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 38.963005,14.541126 c -0.79,-1.3625 -2.25625,-2.20875 -3.8275,-2.2075 l -6.5625,0.0012 c 0.55625,0.39125 1.04,0.88625 1.42,1.46875 l 0.01125,0 0.14125,0.2425 3.92125,6.7875 -2.41875,1.425 8.70875,2.04875 2.57375,-8.55875 -2.4975,1.43 -1.47,-2.6375" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 29.436755,14.782376 -0.0013,0 -0.14,-0.24125 c -0.78875,-1.3625 -2.255,-2.20875 -3.82625,-2.20875 -1.57125,0.0012 -3.0375,0.84875 -3.82625,2.21125 0,0 -0.08625,0.15 -0.12625,0.21875 l -4.8,8.32 6.37875,3.68375 6.63875,-11.4675 -0.2975,-0.51625" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

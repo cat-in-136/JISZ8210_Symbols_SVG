@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>駐車場; Parking</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 30.301128,57.639253 c 15.09875,0 27.33875,-12.24125 27.33875,-27.33875 0,-15.1 -12.24,-27.3387503 -27.33875,-27.3387503 -15.09875,0 -27.3400003,12.2387503 -27.3400003,27.3387503 0,15.0975 12.2412503,27.33875 27.3400003,27.33875 z" style="fill:#ffffff;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"/>
+  <path d="m 27.878628,29.241752 2.58875,0 c 3.45375,0 6.205,-1.24125 6.205,-5.17875 0,-3.83125 -2.75125,-5.0725 -6.205,-5.0725 l -2.58875,0 0,10.25125 z m -10.035,-17.37125 11.97625,0 c 11.49125,0 16.88625,3.885 16.88625,12.35375 0,7.6075 -5.55625,12.13875 -14.94375,12.13875 l -3.88375,0 0,13.16375 -10.035,0 0,-37.65625" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

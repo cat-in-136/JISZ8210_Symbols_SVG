@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>お手洗い; Toilets</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 7.7936259,56.02238 c -1.7750001,0 -3.2150003,-1.43875 -3.2150003,-3.215 l 0,-45.0137539 c 0,-1.7762501 1.4400002,-3.2150002 3.2150003,-3.2150002 l 45.0150041,0 c 1.775,0 3.21375,1.4387501 3.21375,3.2150002 l 0,45.0137539 c 0,1.77625 -1.43875,3.215 -3.21375,3.215 l -45.0150041,0 z" style="fill:#ffffff;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"/>
+  <path d="m 17.666126,17.349878 c 1.4875,0 2.695,-1.20625 2.695,-2.695 0,-1.48875 -1.2075,-2.695 -2.695,-2.695 -1.48875,0 -2.695,1.20625 -2.695,2.695 0,1.48875 1.20625,2.695 2.695,2.695" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 42.861127,17.334878 c 1.48875,0 2.69625,-1.20625 2.69625,-2.695 0,-1.49 -1.2075,-2.69625 -2.69625,-2.69625 -1.48875,0 -2.69625,1.20625 -2.69625,2.69625 0,1.48875 1.2075,2.695 2.69625,2.695" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 46.908628,18.514878 c -1.3125,-0.2425 -2.665,-0.37125 -4.0475,-0.37125 -1.3825,0 -2.735001,0.12875 -4.047501,0.37125 -2.22,0.41125 -3.74375,2.41 -3.62625,4.605 l 0.50125,9.307501 2.185,0 0,-8.895001 0.67375,0 0,24.801252 2.966251,0 1.07875,-15.366251 0.53875,0 1.07875,15.366251 2.965,0 0,-24.801252 0.67375,0 0,8.895001 2.185,0 0.50125,-9.307501 c 0.11875,-2.195 -1.40625,-4.19375 -3.62625,-4.605" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 23.466126,30.824879 2.0225,0 -1.63,-9.243751 c -0.25125,-1.4225 -1.31125,-2.63625 -2.8025,-3.0075 -1.08625,-0.27 -2.22125,-0.415 -3.39,-0.415 -1.168751,0 -2.305001,0.145 -3.390001,0.415 -1.4925,0.37125 -2.55125,1.585 -2.8025,3.0075 l -1.6300001,9.243751 2.0212501,0 2.09375,-7.815001 0.8425,3.141251 c -1.935,2.87625 -3.065,6.3375 -3.065,10.0625 l 3.51375,0 1.06125,12.120001 2.710001,0 1.06,-12.120001 3.51375,0 c 0,-3.725 -1.13,-7.1875 -3.06375,-10.0625 l 0.8425,-3.141251 2.0925,7.815001" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 29.014876,12.188628 0,36.145002 2.572501,0 0,-36.145002 -2.572501,0 z" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

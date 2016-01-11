@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>くず入れ; Trash box</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 7.7848777,56.032378 c -1.77625,0 -3.21625,-1.44 -3.21625,-3.21625 l 0,-45.0300003 c 0,-1.77625 1.44,-3.2175 3.21625,-3.2175 l 45.0300003,0 c 1.7775,0 3.2175,1.44125 3.2175,3.2175 l 0,45.0300003 c 0,1.77625 -1.44,3.21625 -3.2175,3.21625 l -45.0300003,0 z" style="fill:#ffffff;fill-opacity:1;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path d="m 22.043629,39.344877 2.17375,0.5825 0.58375,-2.17375 -2.175,-0.5825 -0.5825,2.17375" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 25.667379,31.179877 -1.95,1.125 1.12625,1.95 1.94875,-1.12625 -1.125,-1.94875" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 22.072379,28.617376 -1.95,1.12625 1.12625,1.94875 1.94875,-1.125 -1.125,-1.95" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 28.692379,49.919878 2.835,-16.08125 -2.25125,0 -2.43875,13.83 -5.6175,0 -2.43875,-13.83 -2.25125,0 2.835,16.08125 9.3275,0" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 42.75363,27.986126 c -0.1075,-0.61625 -0.29375,-1.2075 -0.5475,-1.75875 l 0.0012,0 c -2.01,-4.375 -4.81625,-8.3075 -8.2325,-11.6125 -0.0875,-0.085 -0.20375,-0.13625 -0.335,-0.13625 -0.1625,0 -0.30625,0.07875 -0.39375,0.20125 -3.1025,4.32375 -7.19875,7.885 -11.9525,10.355 l 1.5675,2.24 c 2.83625,-1.1575 5.48125,-2.68875 7.87625,-4.53375 l 4.11375,4.56875 -1.9775,22.61 3.36,0 2.84875,-13.39625 4.17875,13.39625 3.36125,0 -3.86875,-21.93375" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 29.70488,15.643626 c 1.775,0 3.215,-1.44125 3.215,-3.21625 0,-1.77625 -1.44,-3.2162503 -3.215,-3.2162503 -1.77625,0 -3.2175,1.4400003 -3.2175,3.2162503 0,1.775 1.44125,3.21625 3.2175,3.21625" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

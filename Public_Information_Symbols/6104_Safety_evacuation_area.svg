@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>広域避難場所; Safety evacuation area</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="M -41.176,0 0,0 l 0,-41.177 -41.176,0 0,41.177 z" style="stroke-linejoin:miter;stroke-opacity:1;stroke:#000;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:0.48500001;fill:#ffffff;fill-opacity:1" transform="matrix(0.000000,1.250000,1.250000,0.000000,56.036130,56.035505)"/>
+  <path d="M 0,0 Z" style="stroke-linejoin:miter;stroke-opacity:1;stroke:#000;stroke-linecap:butt;stroke-dasharray:none;stroke-miterlimit:4;stroke-width:0.48500001;fill:none" transform="matrix(0.000000,1.250000,1.250000,0.000000,56.036130,56.035505)"/>
+  <path d="M 0,0 C 2.14,-1.054 4.119,-2.039 4.47,-2.25 L 4.587,-2.318 C 5.47,-2.844 5.99,-3.283 5.99,-5.093 l 0,-2.823 -6.844,3.236 c -0.155,-1.443 -0.213,-2.77 -0.213,-3.799 0,-4.659 1.176,-15.413 7.306,-15.413 6.128,0 7.305,10.754 7.305,15.413 0,4.66 -1.177,15.412 -7.305,15.412 C 2.874,6.933 1.004,3.693 0,0" style="stroke:none;fill-opacity:1;fill:#00a650;fill-rule:nonzero" transform="matrix(0.000000,1.250000,1.250000,0.000000,36.797329,35.549254)"/>
+  <path d="m 0,0 c 1.419,0 2.569,-1.15 2.569,-2.569 0,-1.419 -1.15,-2.568 -2.569,-2.568 -1.418,0 -2.568,1.149 -2.568,2.568 C -2.568,-1.15 -1.418,0 0,0" style="stroke:none;fill-opacity:1;fill:#00a650;fill-rule:nonzero" transform="matrix(0.000000,1.250000,1.250000,0.000000,36.964829,11.400503)"/>
+  <path d="m 0,0 c -0.061,-1.436 -0.112,-2.987 -0.113,-3.707 -0.003,-0.722 0.335,-1.41 1.266,-1.389 0.932,0.023 1.138,0.761 1.176,1.448 l 0.027,0.47 c 0,0 0.137,2.372 0.183,3.438 C 2.584,1.323 2.174,1.536 1.657,1.961 1.14,2.389 -0.7,3.651 -0.7,3.651 L 3.923,5.688 16.75,-0.378 c 0,0 0,0.091 0,1.688 0,1.597 -0.373,1.732 -1.133,2.188 C 14.856,3.954 5.2,8.653 5.2,8.653 c 0,0 3.817,0.258 5.429,0.38 1.611,0.122 1.566,1.126 1.566,2.129 0,1.003 0,8.775 0,8.775 0,0 -0.624,-0.29 -1.658,-0.837 -1.034,-0.548 -1.079,-1.43 -1.079,-2.282 0,-0.85 0,-4.804 0,-4.804 0,0 -2.631,-0.183 -4.516,-0.35 C 3.056,11.496 2.63,11.299 1.794,10.919 0.957,10.538 -2.418,9.003 -2.418,9.003 l 0,2.873 c 0,0 2.706,1.582 3.299,1.932 0.593,0.349 1.156,0.867 0.761,1.673 -0.395,0.807 -1.156,0.775 -1.795,0.441 -0.638,-0.335 -1.992,-1.095 -3.239,-1.81 -1.247,-0.714 -1.444,-1.201 -1.49,-2.387 -0.045,-1.187 -0.091,-3.968 -0.091,-5.902 0,-1.929 0.532,-2.599 1.353,-3.237 C -2.798,1.947 0,0 0,0" style="stroke:none;fill-opacity:1;fill:#00a650;fill-rule:nonzero" transform="matrix(0.000000,1.250000,1.250000,0.000000,28.881128,21.086753)"/>
+</svg>

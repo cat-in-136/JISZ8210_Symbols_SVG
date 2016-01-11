@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>郵便; Post</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 7.7855027,56.032378 c -1.77625,0 -3.21625,-1.44 -3.21625,-3.2175 l 0,-45.0300003 c 0,-1.77625 1.44,-3.21625 3.21625,-3.21625 l 45.0300003,0 c 1.77625,0 3.21625,1.44 3.21625,3.21625 l 0,45.0300003 c 0,1.7775 -1.44,3.2175 -3.21625,3.2175 l -45.0300003,0" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 7.7855027,56.032378 c -1.77625,0 -3.21625,-1.44 -3.21625,-3.2175 l 0,-45.0300003 c 0,-1.77625 1.44,-3.21625 3.21625,-3.21625 l 45.0300003,0 c 1.77625,0 3.21625,1.44 3.21625,3.21625 l 0,45.0300003 c 0,1.7775 -1.44,3.2175 -3.21625,3.2175 l -45.0300003,0 z" style="fill:none;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path d="m 37.423005,30.592377 9.90875,-9.87875 0,19.7875 -9.90875,-9.90875 z m -12.45,1.79 c 0.345,0.34375 0.54,0.53875 0.54,0.53875 2.645,2.645 6.93125,2.645 9.57375,0.0012 l 0.54125,-0.54 9.8,9.80125 -30.25625,0 9.80125,-9.80125 z m -1.795,-1.79 -9.90875,9.90875 0,-19.78875 c 2.73375,2.725 7.19125,7.17125 9.90875,9.88 z m 10.15375,0.575 c -1.67375,1.675 -4.38875,1.675 -6.06375,0 l -12.2025,-12.23125 30.47,0 c -4.13375,4.14125 -12.20375,12.23125 -12.20375,12.23125 z m -22.635,-14.80375 0,28.3925 39.2075,0 0,-28.3925 -39.2075,0 z" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

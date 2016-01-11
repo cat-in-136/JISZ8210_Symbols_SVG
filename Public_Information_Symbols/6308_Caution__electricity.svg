@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>感電注意; Caution, electricity</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 57.262264,56.901753 c 1.125,0 2.225,-0.5825 2.825,-1.62625 0.6,-1.045 0.5625,-2.285 0,-3.26125 l -26.975,-46.6837503 c -0.5625,-0.97375 -1.6125,-1.63125 -2.8125,-1.63125 -1.2125,0 -2.2625,0.6575 -2.825,1.63125 L 0.52476443,52.014253 c -0.575,0.97625 -0.6125,2.21625 -0.0125,3.26125 0.59999997,1.04375 1.69999997,1.62625 2.82499997,1.62625 l 53.9249996,0" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="M 30.299763,9.1154997 5.2122634,52.55175 l 50.1624996,0 -25.075,-43.4362503" style="fill:#ffcb04;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 36.837263,26.968001 -9.8375,4.95 6.3375,-15.0925 -5.7375,0.01625 -7.0125,22.9125 10.5375,-6.4325 -1.025,11.02 -2.8875,-1.3975 3.125,7.895 5.1875,-6.7275 -3.225,0.55875 4.5375,-17.7025" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>
