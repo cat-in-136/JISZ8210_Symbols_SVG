@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <title>内部障害のある人優先席; Priority seats for people with internal disabilities,heart pacer, etc.</title>
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>内部障害のある人優先席; Priority seats for people with internal disabilities,heart pacer, etc.</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 7.9505027,55.844878 c -1.76375,0 -3.19375,-1.43 -3.19375,-3.19375 l 0,-44.7012503 c 0,-1.76375 1.43,-3.19375 3.19375,-3.19375 l 44.7012503,0 c 1.76375,0 3.1925,1.43 3.1925,3.19375 l 0,44.7012503 c 0,1.76375 -1.42875,3.19375 -3.1925,3.19375 l -44.7012503,0 z" style="fill:#ffffff;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path d="m 31.011755,31.204877 -0.46,-4.335 c -0.35375,-3.7125 -3.48,-6.61625 -7.29,-6.61625 -0.57625,0 -1.13625,0.07375 -1.67125,0.20625 -0.17375,0.04375 -0.3025,0.2 -0.3025,0.3875 0,0.02375 0.0038,0.04625 0.0063,0.06875 l 2.24625,12.74375 c 0.31375,1.7975 1.88125,3.16375 3.77,3.16375 l 5.87,0 2.22625,10.645 3.5025,0 -1.1725,-13.62625 c -0.08875,-1.16875 -1.0175,-2.10375 -2.185,-2.20125 l -4.54,-0.43625" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 27.954254,16.657376 c -0.245,1.74625 -1.86,2.96125 -3.605,2.71625 -1.74375,-0.24625 -2.96125,-1.85875 -2.715,-3.605 0.24375,-1.74375 1.85875,-2.96 3.6025,-2.715 1.7475,0.245 2.9625,1.8575 2.7175,3.60375" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 20.609254,38.101127 0,1.945 11.487501,0 0,-1.945 -11.487501,0 z" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 26.185504,29.657377 c 1.3775,-0.70125 3.0075,-2.44875 3.0075,-4.16875 0,-0.86625 -0.70375,-1.56875 -1.57,-1.56875 -0.6425,0 -1.195,0.38875 -1.4375,0.9425 -0.245,-0.55375 -0.7975,-0.9425 -1.4425,-0.9425 -0.865,0 -1.56875,0.7025 -1.56875,1.56875 0,1.72 1.63,3.4675 3.01125,4.16875" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 27.703004,26.403626 -1.03875,0 0,-1.03875 -0.9575,0 0,1.03875 -1.0375,0 0,0.95875 1.0375,0 0,1.03625 0.9575,0 0,-1.03625 1.03875,0 0,-0.95875" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>

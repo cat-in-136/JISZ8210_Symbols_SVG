@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
+  <title>高齢者優先席; Priority seats for elderly people</title>
+  <defs/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>高齢者優先席; Priority seats for elderly people</dc:title>
+        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 7.9492527,55.844253 c -1.76375,0 -3.1925,-1.4275 -3.1925,-3.1925 l 0,-44.7012503 c 0,-1.76375 1.42875,-3.19375 3.1925,-3.19375 l 44.7025003,0 c 1.7625,0 3.1925,1.43 3.1925,3.19375 l 0,44.7012503 c 0,1.765 -1.43,3.1925 -3.1925,3.1925 l -44.7025003,0 z" style="fill:#ffffff;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path d="m 22.258004,19.481751 c 1.76375,0 3.1925,-1.43125 3.1925,-3.1925 0,-1.765 -1.42875,-3.19375 -3.1925,-3.19375 -1.76375,0 -3.1925,1.42875 -3.1925,3.19375 0,1.76125 1.42875,3.1925 3.1925,3.1925" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 18.168004,38.099252 0,1.9475 11.495001,0 0,-1.9475 -11.495001,0 z" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 37.599255,24.350501 c -1.41125,0 -2.555,1.14375 -2.555,2.555 l 0,1.59625 0.95875,0 0,-1.59625 c 0,-0.88375 0.71375,-1.59625 1.59625,-1.59625 0.88125,0 1.59625,0.715 1.59625,1.59625 l 0,20.565 0.9575,0 0,-20.565 c 0,-1.41125 -1.14375,-2.555 -2.55375,-2.555" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 33.120505,31.636752 -5.61,-0.4925 -0.39125,-3.7225 c 0.16375,0.02875 0.33125,0.045 0.50375,0.045 0.08375,0 0.1675,-0.005 0.25,-0.01125 l 6.25,-0.5475 0.6425,-2.39875 -6.76,0 -3.59625,-2.80875 c -1.165,-0.9125 -2.63125,-1.45625 -4.22625,-1.45625 -0.31625,0 -0.62625,0.02375 -0.93125,0.06375 -0.23375,0.0325 -0.41375,0.2325 -0.41375,0.47375 0,0.02875 0.0038,0.05375 0.0088,0.0825 l 2.25375,12.7925 c 0.315,1.7975 1.88375,3.16625 3.7725,3.16625 l 5.87375,0 2.2275,10.6475 3.5125,0 -1.18,-13.63125 c -0.08875,-1.17 -1.0175,-2.105 -2.18625,-2.2025" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+</svg>
