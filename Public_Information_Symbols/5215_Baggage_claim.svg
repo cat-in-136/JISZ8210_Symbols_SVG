@@ -1,16 +1,25 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
-  <defs/>
-  <metadata>
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title>手荷物受取所; Baggage claim</dc:title>
-        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path d="m 7.7867527,56.031753 c -1.77625,0 -3.2175,-1.44 -3.2175,-3.21625 l 0,-45.0312503 c 0,-1.775 1.44125,-3.215 3.2175,-3.215 l 45.0300003,0 c 1.77625,0 3.215,1.44 3.215,3.215 l 0,45.0312503 c 0,1.77625 -1.43875,3.21625 -3.215,3.21625 l -45.0300003,0 z" style="fill:#ffffff;fill-opacity:1;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <path d="m 33.666755,20.324251 -6.73,0 0,-2.465 c 1.10625,-0.2025 2.235,-0.30875 3.365,-0.30875 1.125,0 2.2525,0.10625 3.365,0.31125 l 0,2.4625 z m -18.37,0 c -1.13125,0 -2.04625,0.915 -2.04625,2.045 l -0.0013,19.78125 c 0,1.13125 0.91625,2.04625 2.04625,2.04625 l 3.555,0 0,-23.8725 -3.55375,0 m 30.01125,23.87625 c 1.13,0 2.045,-0.9175 2.045,-2.0475 l -0.005,-19.78125 c 0,-1.13125 -0.915,-2.0475 -2.04625,-2.0475 l -3.5475,0 0,23.875 3.55375,0.0012 m -5.51375,-0.0012 0,-23.875 -4.165,0 0,-4.0425 -0.6025,-0.14125 c -1.5525,-0.36375 -3.14,-0.55 -4.725,-0.55 -1.59375,0 -3.1825,0.18625 -4.72375,0.55 l -0.60125,0.1425 0,4.04125 -4.16625,0 0,23.8725 18.98375,0.0025" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60.601" height="60.601" version="1.1" viewBox="0 0 60.601 60.601" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>手荷物受取所; Baggage claim</dc:title>
+    <dc:source>http://www.mlit.go.jp/common/001245686.pdf</dc:source>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m7.7868 56.032c-1.7762 0-3.2175-1.44-3.2175-3.2162v-45.031c0-1.775 1.4412-3.215 3.2175-3.215h45.03c1.7762 0 3.215 1.44 3.215 3.215v45.031c0 1.7762-1.4388 3.2162-3.215 3.2162h-45.03z" style="fill:#fff;stroke-width:.60625;stroke:#000"/>
+ <path d="m19.97 15.54 0.66835 0.13105 0.5373 0.13541 0.67271 0.13541 0.5373 0.26647 0.80376 0.80376 5.3686 5.2375 6.0369 1.7429-0.93918 2.2802-6.1723-0.93918h-0.27084l-0.26646-0.13541-0.13541-0.13105-2.6821-2.1492-4.8313 6.5742v21.876h-4.0275l-2.5467-22.007-0.13541-0.40188 0.13541-0.5373v-0.5373l0.13105-0.40188 0.27084-0.40625 6.4388-11.27 0.13541-0.13541h0.13542z" style="fill-rule:evenodd"/>
+ <circle cx="31.239" cy="48.483" r=".939"/>
+ <circle cx="35.132" cy="48.483" r=".939"/>
+ <circle cx="39.024" cy="48.483" r=".939"/>
+ <circle cx="42.916" cy="48.483" r=".939"/>
+ <circle cx="46.808" cy="48.483" r=".939"/>
+ <path d="m28.156 45.598c-0.02104 0.01624-0.03595 0.03442-0.05664 0.05078-1.3663 0.25317-2.3581 1.4444-2.3594 2.834 5.49e-4 1.3909 0.99349 2.5835 2.3613 2.8359 0.02074 0.01684 0.03354 0.03397 0.05469 0.05078h21.871v-1.4766l-21.402 0.06641c-0.8155 3.4e-5 -1.4766-0.66106-1.4766-1.4766-3.5e-5 -0.8155 0.66106-1.4766 1.4766-1.4766l21.402-0.06641v-1.3418h-21.402z" style="fill-rule:evenodd"/>
+ <circle cx="25.334" cy="13.391" r="3.2195"/>
+ <path d="m43.047 32.58v11.943h1.7852c0.4986-1e-6 0.90039-0.40179 0.90039-0.90039v-10.141c0-0.4986-0.40179-0.90039-0.90039-0.90039h-0.42969v-2e-3z" style="fill-rule:evenodd"/>
+ <path d="m37.146 30.969h-0.80813l-0.66835 0.13542v1.4765h2.9529v-1.4765l-0.67271-0.13542zm0-1.2056 0.93917 0.13541 0.93917 0.13105 0.80376 0.13541v2.4157h2.1492v11.943h-9.5272v-11.943h2.0094v-2.4157l0.93918-0.13541 0.80812-0.13105z" style="fill-rule:evenodd"/>
+ <path d="m31.243 32.58v11.943h-1.7852c-0.4986-1e-6 -0.90039-0.40179-0.90039-0.90039v-10.141c0-0.4986 0.40179-0.90039 0.90039-0.90039h0.42969v-2e-3z" style="fill-rule:evenodd"/>
 </svg>

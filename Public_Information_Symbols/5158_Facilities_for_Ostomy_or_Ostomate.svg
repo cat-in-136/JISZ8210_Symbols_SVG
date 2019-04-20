@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60.601" height="60.601" version="1.1" viewBox="0 0 60.601 60.601" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>オストメイト用設備/オストメイト; Facilities for Ostomy or Ostomate</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>オストメイト用設備/オストメイト; Facilities for Ostomy or Ostomate</dc:title>
+    <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_20170719.pdf</dc:source>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m7.9493 55.845c-1.7638 0-3.1925-1.4312-3.1925-3.195v-44.701c0-1.7625 1.4288-3.1925 3.1925-3.1925h44.701c1.7638 0 3.1938 1.43 3.1938 3.1925v44.701c0 1.7638-1.43 3.195-3.1938 3.195h-44.701z" style="fill:#fff;stroke-width:.60625;stroke:#000"/>
+ <path d="m41.693 49.125h-22.784l-0.97628-18.527c-0.27054-3.8527 2.4584-7.3344 6.34-7.9117 1.9644-0.28867 3.9816-0.44773 6.0283-0.44773 2.0467 0 4.0581 0.15906 6.0283 0.44773 3.8816 0.57732 6.6106 4.0589 6.34 7.9117z"/>
+ <path d="m30.301 20.748c2.7466 0 4.9697-2.2327 4.9697-4.9838 0-2.7511-2.2231-4.9838-4.9697-4.9838-2.7466 0-4.9756 2.2327-4.9756 4.9838 0 2.7511 2.229 4.9838 4.9756 4.9838"/>
+ <path d="m35.523 40.371v-2.4035h-2.3937v2.4035h-2.3996v2.4035h2.3996v2.4035h2.3937v-2.4035h2.3996v-2.4035z" style="fill:#fff"/>
+</svg>

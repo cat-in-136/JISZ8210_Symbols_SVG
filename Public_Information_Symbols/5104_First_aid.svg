@@ -1,16 +1,15 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="60.601002" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60.601004 60.601004" width="60.601002" xmlns="http://www.w3.org/2000/svg">
-  <defs/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60.601" height="60.601" version="1.1" viewBox="0 0 60.601 60.601" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <metadata>
     <rdf:RDF>
       <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
         <dc:title>救護所; First aid</dc:title>
-        <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+        <dc:source>http://www.mlit.go.jp/common/001245686.pdf</dc:source>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path d="m 7.7773759,56.041755 c -1.7775001,0 -3.2175003,-1.44125 -3.2175003,-3.2175 l 0,-45.0462539 c 0,-1.7775001 1.4400002,-3.2187502 3.2175003,-3.2187502 l 45.0462541,0 c 1.77625,0 3.2175,1.4412501 3.2175,3.2187502 l 0,45.0462539 c 0,1.77625 -1.44125,3.2175 -3.2175,3.2175 l -45.0462541,0 z" style="fill:#ffffff;stroke:#000;stroke-width:0.60625005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"/>
-  <path d="m 33.578628,24.930503 0,-3.6725 3.0025,0 c 0,0 0.0012,2.6675 0.0012,3.6725 l -3.00375,0 z m 1.14375,15.998751 -4.29625,0 0,4.297501 -4.298751,0 0,-4.297501 -4.2975,0 0,-4.29875 4.2975,0 0,-4.2975 4.298751,0 0,4.2975 4.29625,0 0,4.29875 z m -1.14625,-24.338752 2.48375,0 -2.48375,2.748751 0,-2.748751 z m 0,-2.66875 c 0,-0.4 0.15625,-0.7775 0.44,-1.06125 0.28375,-0.28375 0.66125,-0.44 1.0625,-0.44 0.40125,0 0.77875,0.15625 1.0625,0.44 0.2825,0.28375 0.44,0.66125 0.44,1.06125 0,0 0,0.66875 0,1.67375 l -3.005,0 0,-1.67375 z m 3.005,6.341251 -2.49875,0 2.49875,-2.767501 c 0,0.88375 0,1.841251 0,2.767501 z m 9.485001,5.42 c -1.33,0 -2.5125,0.63 -3.2675,1.60625 l -5.222501,6.377501 0,-19.745002 c 0,-1.3775 -1.11875,-2.49625 -2.4975,-2.49625 -1.37875,0 -2.49625,1.11875 -2.49625,2.49625 l 0,13.412501 -0.96625,0.0025 -0.0075,-15.918751 c -0.0025,-1.25875 -1.05,-2.2787503 -2.30875,-2.2762503 -1.26,0.0025 -2.246251,1.0250003 -2.245001,2.2837503 l 0.0025,15.911251 -0.96375,0.0012 0,-13.617501 c -0.0025,-1.26 -1.05625,-2.27875 -2.315,-2.27625 -1.26,0.0012 -2.24375,1.025 -2.24125,2.28375 l -0.0012,15.512501 -0.965,0.0025 0.0025,-9.95875 c -0.0025,-1.257501 -1.04875,-2.277501 -2.3075,-2.275001 -1.25875,0.0025 -2.2525,1.02375 -2.25,2.283751 l -0.0125,17.722501 c 0,5.4175 2.42125,10.277501 6.15,13.643751 l 14.652501,0 11.643751,-24.246252 c -0.67,-0.47125 -1.5025,-0.73 -2.38375,-0.73" style="fill:#000;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+ <rect x="4.2565" y="4.2565" width="52.088" height="52.088" fill="#00a650"/>
+ <path d="m24.109 10.783h12.384v13.317h13.3v12.399h-13.3v13.317h-12.384v-13.317h-13.3v-12.399h13.3z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-linejoin="bevel" stroke-miterlimit="10" stroke-width=".13046"/>
 </svg>
