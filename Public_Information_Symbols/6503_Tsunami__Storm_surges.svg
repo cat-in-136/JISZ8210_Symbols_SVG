@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60.601" height="60.601" version="1.1" viewBox="0 0 60.601 60.601" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>津波／高潮; Tsunami/Storm surges</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>津波／高潮; Tsunami/Storm surges</dc:title>
+    <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m4.601 55.999h51.396v-51.396h-51.396z"/>
+ <path d="m51.741 38.818c-5.6441 1.305-14.982 2.3517-22.272-2.0335-3.7074-2.2226-5.1507-6.6078-3.2417-9.7941 1.9229-3.1817 6.4649-3.961 10.163-1.743 0.54873 0.3274 1.0375 0.69629 1.4756 1.1067l0.5395-0.31355c-2.7805-6.9398-11.763-13.608-29.479-4.2653v-12.888h42.815z" style="fill:#fff"/>
+</svg>

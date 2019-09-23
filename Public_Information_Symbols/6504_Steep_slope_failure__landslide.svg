@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60.601" height="60.601" version="1.1" viewBox="0 0 60.601 60.601" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>崖崩れ・地滑り; Steep slope failure, landslide</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>崖崩れ・地滑り; Steep slope failure, landslide</dc:title>
+    <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf</dc:source>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m4.6024 4.603v51.395h51.396v-51.395h-51.396z" style="fill:#fff"/>
+ <path d="m36.828 19.612 2.6791-4.6849-7.7191-4.1547-4.6942 2.6652 4.5051 7.5208z"/>
+ <path d="m44.372 13.558-2.3747 9.6281-3.9564 1.6831-1.6462 6.1282-4.7864 4.7541-1.8629 6.9398-4.5512 4.5558-16.3 4.3714v-42.722h40.14zm-39.771 42.441h51.396v-51.401h-51.396z"/>
+ <path d="m27.283 27.862 0.94529-3.2416-1.0052-1.7522-5.3305 0.83923-0.2029 2.0151 2.241 2.5223z"/>
+ <path d="m31.364 33.432 2.0704-2.6606-0.71473-1.8906-2.0197-0.14756-1.7292 1.056 0.39195 3.3477z"/>
+ <path d="m23.11 43.489-0.64557-1.9136-3.3477 0.45189-0.913 3.2463 1.388 1.471 3.1264-1.2681z"/>
+ <path d="m14.307 48.215 1.6416-1.1851 0.47956-1.9644-1.9044-0.68246-1.4894 1.3695-0.0047 2.0243z"/>
+ <path d="m25.563 34.571-4.9109-2.241-3.2555 0.88073 1.7476 5.1092 1.66 1.1574 5.1645-1.5586z"/>
+</svg>

@@ -1,9 +1,8 @@
-# JIS Z8210:2015 案内用図記号 (Public Information Symbols) SVG files
+# JIS Z8210:2017 案内用図記号 (Public Information Symbols) SVG files
 
  * Vector data source : http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_jis110.pdf
- * Colors
-   * 赤 Red #ed1c24
-   * 緑 Green #00a650
-   * 黄 Yellow #ffcb04
-   * 青 Blue #0089cf
-   * 青（洪水・堤防案内） Blue (flood, levee) #006cb7
+ * Colors (sRGB, Gamma 2.2, 6500K)
+   * 赤 Red #ff4b00
+   * 緑 Green #00b06b
+   * 黄 Yellow #f2e700
+   * 青 Blue #1971ff

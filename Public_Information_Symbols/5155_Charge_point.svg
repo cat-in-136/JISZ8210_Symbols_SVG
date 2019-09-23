@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60.601" height="60.601" version="1.1" viewBox="0 0 60.601 60.601" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>充電コーナー; Charge point</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>充電コーナー; Charge point</dc:title>
+    <dc:source>http://www.ecomo.or.jp/barrierfree/pictogram/data/zukigo_panfu_20170719.pdf</dc:source>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m7.9493 55.845c-1.7638 0-3.1925-1.4312-3.1925-3.195v-44.701c0-1.7625 1.4288-3.1925 3.1925-3.1925h44.701c1.7638 0 3.1938 1.43 3.1938 3.1925v44.701c0 1.7638-1.43 3.195-3.1938 3.195h-44.701z" style="fill:#fff;stroke-width:.60625;stroke:#000"/>
+ <path d="m42.8 30.695v-6.2436h9.0847c0.32382-0.32954 0.52401-0.78265 0.52401-1.277 0-0.50019-0.20019-0.9533-0.52401-1.2828h-9.0847v-3.1188h-17.239c-1.3188 2.2891-2.149 4.896-2.3256 7.6853h-2.8202c-3.2677 0-5.923 2.654-5.923 5.9199 0 1.0769 0.2885 2.1361 0.84194 3.0541l1.3954 2.348c0.44746 0.78852 0.68297 1.6948 0.68297 2.6069 0 2.9129-2.3668 5.2785-5.2871 5.2785h-4.245v2.242h4.245c4.1508 0 7.5303-3.3719 7.5303-7.5205 0-1.3593-0.36504-2.6951-1.0598-3.8544l-1.3365-2.2538c-0.34737-0.57081-0.52989-1.2299-0.52989-1.9007 0-2.0302 1.6544-3.6779 3.6857-3.6779h2.8202c0.17663 2.7834 1.0068 5.3903 2.3256 7.6794h17.239v-3.1188h9.0847c0.32382-0.33543 0.52401-0.78854 0.52401-1.2829 0-0.50019-0.20019-0.94741-0.52401-1.2828z"/>
+</svg>
