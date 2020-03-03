@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60.601" height="60.601" version="1.1" viewBox="0 0 60.601 60.601" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <title>和風便器; Squatting style toilet</title>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>和風便器; Squatting style toilet</dc:title>
+        <dc:source>https://www.sanitary-net.com/trend/images/jis/04/jisz8210_2.zip</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m7.9493 55.845c-1.7638 0-3.1925-1.4312-3.1925-3.195v-44.701c0-1.7625 1.4288-3.1925 3.1925-3.1925h44.701c1.7638 0 3.1938 1.43 3.1938 3.1925v44.701c0 1.7638-1.43 3.195-3.1938 3.195h-44.701z"
+     style="fill:#fff;stroke-width:.60625;stroke:#000"/>
+  <path
+     d="M 48.701167,35.116449 H 28.351799 c -1.424701,0 -2.579312,-1.154855 -2.579312,-2.579555 V 21.273725 c -6.737421,0 -15.764166,3.826381 -15.764166,16.250471 h -7.28e-4 v 1.375682 h 15.764894 22.92868 v -2.43e-4 h 2.579555 v -1.203631 c 0,-1.424458 -1.154854,-2.579555 -2.579555,-2.579555"
+     style="fill:#000"/>
+</svg>
