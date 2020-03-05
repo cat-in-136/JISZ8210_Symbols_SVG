@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60.601" height="60.601" version="1.1" viewBox="0 0 60.601 60.601" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <title>洋風便器; Sitting style toilet</title>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>洋風便器; Sitting style toilet</dc:title>
+        <dc:source>https://www.sanitary-net.com/trend/images/jis/04/jisz8210_2.zip</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#fff;stroke-width:.60625;stroke:#000"
+     d="m7.9493 55.845c-1.7638 0-3.1925-1.4312-3.1925-3.195v-44.701c0-1.7625 1.4288-3.1925 3.1925-3.1925h44.701c1.7638 0 3.1938 1.43 3.1938 3.1925v44.701c0 1.7638-1.43 3.195-3.1938 3.195h-44.701z" />
+  <path
+     style="fill:#000"
+     d="M 44.635905,30.988459 V 49.561015 H 26.063349 C 19.24051,46.640512 14.588816,38.268484 14.588816,30.988459 Z" />
+  <path
+     style="fill:#000"
+     d="m 42.056374,11.039831 h -1.203631 v 2.579555 15.993244 h 3.783186 V 13.619386 c 0,-1.4247 -1.154854,-2.579555 -2.579555,-2.579555" />
+</svg>
